@@ -3,9 +3,9 @@
   (general
     (links 109)
     (no_connects 0)
-    (area 38.024999 76.124999 238.835001 116.915001)
+    (area 38.024999 76.124999 237.565001 116.915001)
     (thickness 1.6)
-    (drawings 17)
+    (drawings 19)
     (tracks 72)
     (zones 0)
     (modules 24)
@@ -471,12 +471,12 @@
     )
   )
 
-  (module w_conn_strip:vasch_strip_8x2 (layer F.Cu) (tedit 0) (tstamp 5869DB18)
+  (module w_conn_strip:vasch_strip_8x2 (layer F.Cu) (tedit 586ADA34) (tstamp 5869DB18)
     (at 134.62 96.52 270)
     (descr "Box header 8x2pin 2.54mm")
     (tags "CONN DEV")
     (path /586A4A41)
-    (fp_text reference P9 (at 0 -5.7 270) (layer F.SilkS)
+    (fp_text reference P9 (at 0 -5.7 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2032)))
     )
     (fp_text value CONN_02X08 (at 0 5.7 270) (layer F.SilkS) hide
@@ -528,12 +528,12 @@
     )
   )
 
-  (module w_conn_strip:vasch_strip_8x2 (layer F.Cu) (tedit 0) (tstamp 5869DAF4)
+  (module w_conn_strip:vasch_strip_8x2 (layer F.Cu) (tedit 586ADA31) (tstamp 5869DAF4)
     (at 116.84 96.52 270)
     (descr "Box header 8x2pin 2.54mm")
     (tags "CONN DEV")
     (path /586A4743)
-    (fp_text reference P8 (at 0 -5.7 270) (layer F.SilkS)
+    (fp_text reference P8 (at 0 -5.7 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2032)))
     )
     (fp_text value CONN_02X08 (at 0 5.7 270) (layer F.SilkS) hide
@@ -585,12 +585,12 @@
     )
   )
 
-  (module w_conn_strip:vasch_strip_8x2 (layer F.Cu) (tedit 0) (tstamp 5869DAD0)
+  (module w_conn_strip:vasch_strip_8x2 (layer F.Cu) (tedit 586ADA38) (tstamp 5869DAD0)
     (at 152.4 96.52 270)
     (descr "Box header 8x2pin 2.54mm")
     (tags "CONN DEV")
     (path /586A4BB8)
-    (fp_text reference P7 (at 0 -5.7 270) (layer F.SilkS)
+    (fp_text reference P7 (at 0 -5.7 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2032)))
     )
     (fp_text value CONN_02X08 (at 0 5.7 270) (layer F.SilkS) hide
@@ -642,12 +642,12 @@
     )
   )
 
-  (module w_conn_strip:vasch_strip_8x2 (layer F.Cu) (tedit 0) (tstamp 5869DAAC)
+  (module w_conn_strip:vasch_strip_8x2 (layer F.Cu) (tedit 586ADB8A) (tstamp 5869DAAC)
     (at 170.18 96.52 270)
     (descr "Box header 8x2pin 2.54mm")
     (tags "CONN DEV")
     (path /586A48D2)
-    (fp_text reference P6 (at 0 -5.7 270) (layer F.SilkS)
+    (fp_text reference P6 (at 0 -5.7 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2032)))
     )
     (fp_text value CONN_02X08 (at 0 5.7 270) (layer F.SilkS) hide
@@ -699,12 +699,12 @@
     )
   )
 
-  (module w_conn_strip:vasch_strip_8x2 (layer F.Cu) (tedit 0) (tstamp 5869DA88)
+  (module w_conn_strip:vasch_strip_8x2 (layer F.Cu) (tedit 586ADB8E) (tstamp 5869DA88)
     (at 187.96 96.52 270)
     (descr "Box header 8x2pin 2.54mm")
     (tags "CONN DEV")
     (path /586A49EF)
-    (fp_text reference P5 (at 0 -5.7 270) (layer F.SilkS)
+    (fp_text reference P5 (at 0 -5.7 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2032)))
     )
     (fp_text value CONN_02X08 (at 0 5.7 270) (layer F.SilkS) hide
@@ -756,12 +756,12 @@
     )
   )
 
-  (module w_conn_strip:vasch_strip_8x2 (layer F.Cu) (tedit 0) (tstamp 5869DA64)
+  (module w_conn_strip:vasch_strip_8x2 (layer F.Cu) (tedit 586ADB95) (tstamp 5869DA64)
     (at 223.52 96.52 270)
     (descr "Box header 8x2pin 2.54mm")
     (tags "CONN DEV")
     (path /586A4B66)
-    (fp_text reference P4 (at 0 -5.7 270) (layer F.SilkS)
+    (fp_text reference P4 (at 0 -5.7 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2032)))
     )
     (fp_text value CONN_02X08 (at 0 5.7 270) (layer F.SilkS) hide
@@ -813,12 +813,12 @@
     )
   )
 
-  (module w_conn_strip:vasch_strip_8x2 (layer F.Cu) (tedit 0) (tstamp 5869DA40)
+  (module w_conn_strip:vasch_strip_8x2 (layer F.Cu) (tedit 586ADB92) (tstamp 5869DA40)
     (at 205.74 96.52 270)
     (descr "Box header 8x2pin 2.54mm")
     (tags "CONN DEV")
     (path /586A4880)
-    (fp_text reference P3 (at 0 -5.7 270) (layer F.SilkS)
+    (fp_text reference P3 (at 0 -5.7 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2032)))
     )
     (fp_text value CONN_02X08 (at 0 5.7 270) (layer F.SilkS) hide
@@ -870,12 +870,12 @@
     )
   )
 
-  (module w_conn_strip:vasch_strip_8x2 (layer F.Cu) (tedit 0) (tstamp 5869DA1C)
+  (module w_conn_strip:vasch_strip_8x2 (layer F.Cu) (tedit 586ADA2C) (tstamp 5869DA1C)
     (at 99.06 96.52 270)
     (descr "Box header 8x2pin 2.54mm")
     (tags "CONN DEV")
     (path /586A1EAA)
-    (fp_text reference P2 (at 0 -5.7 270) (layer F.SilkS)
+    (fp_text reference P2 (at 0 -5.7 360) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2032)))
     )
     (fp_text value CONN_02X08 (at 0 5.7 270) (layer F.SilkS) hide
@@ -939,11 +939,11 @@
       (clearance 1.905))
   )
 
-  (module w_conn_kk156:kk156_26-60-4020 (layer F.Cu) (tedit 586A7C2C) (tstamp 586A0D19)
+  (module w_conn_kk156:kk156_26-60-4020 (layer F.Cu) (tedit 586ADEA4) (tstamp 586A0D19)
     (at 44.069 101.219 270)
     (descr "2 pin vert. connector, Molex KK156 series")
     (path /586A1F68)
-    (fp_text reference P1 (at -0.254 -3.683 450) (layer F.SilkS)
+    (fp_text reference P1 (at -0.254 -3.556 450) (layer F.SilkS)
       (effects (font (thickness 0.3048)))
     )
     (fp_text value CONN_01X02 (at 0 7 270) (layer F.SilkS) hide
@@ -968,7 +968,7 @@
   )
 
   (module Symbols:OSHW-Symbol_6.7x6mm_SilkScreen (layer F.Cu) (tedit 0) (tstamp 586AADF6)
-    (at 55.88 113.03)
+    (at 143.51 113.03)
     (descr "Open Source Hardware Symbol")
     (tags "Logo Symbol OSHW")
     (attr virtual)
@@ -1065,13 +1065,19 @@
       (xy 0.555814 -2.531069)) (layer F.SilkS) (width 0.01))
   )
 
-  (gr_text "v1.0 01 2017" (at 62.23 80.645) (layer F.SilkS) (tstamp 586AAE07)
+  (gr_text 9-36V (at 48.26 94.615 270) (layer F.SilkS) (tstamp 586AD9D2)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text system79.com (at 68.58 114.3) (layer F.SilkS) (tstamp 586AAE02)
+  (gr_text "EURORACK PSU" (at 63.5 79.375) (layer F.SilkS) (tstamp 586AD9B0)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "DC IN" (at 42.545 106.68) (layer F.SilkS)
+  (gr_text "v1.0 01 2017" (at 63.5 81.915) (layer F.SilkS) (tstamp 586AAE07)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
+  (gr_text system79.com (at 63.5 113.665) (layer F.SilkS) (tstamp 586AAE02)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
+  (gr_text "DC IN" (at 42.545 107.315) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text + (at 40.005 95.25) (layer F.SilkS)
@@ -1089,9 +1095,9 @@
   (gr_line (start 111.76 80.01) (end 121.92 80.01) (angle 90) (layer F.SilkS) (width 2) (tstamp 586A9387))
   (gr_line (start 93.98 80.01) (end 104.14 80.01) (angle 90) (layer F.SilkS) (width 2))
   (gr_line (start 38.1 116.84) (end 38.1 76.2) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 238.76 116.84) (end 38.1 116.84) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 238.76 76.2) (end 238.76 116.84) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 38.1 76.2) (end 238.76 76.2) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 237.49 116.84) (end 38.1 116.84) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 237.49 76.2) (end 237.49 116.84) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 38.1 76.2) (end 237.49 76.2) (angle 90) (layer Edge.Cuts) (width 0.15))
 
   (segment (start 44.069 99.239) (end 44.069 94.656) (width 1) (layer F.Cu) (net 1))
   (segment (start 44.069 94.656) (end 44.196 94.529) (width 1) (layer F.Cu) (net 1))
@@ -1172,12 +1178,12 @@
     (fill yes (arc_segments 16) (thermal_gap 0.254) (thermal_bridge_width 0.5048))
     (polygon
       (pts
-        (xy 238.76 116.84) (xy 38.1 116.84) (xy 38.1 76.2) (xy 238.76 76.2) (xy 238.76 116.84)
+        (xy 237.49 116.84) (xy 38.1 116.84) (xy 38.1 76.2) (xy 237.49 76.2) (xy 237.49 116.84)
       )
     )
     (filled_polygon
       (pts
-        (xy 238.3294 116.4094) (xy 38.5306 116.4094) (xy 38.5306 112.80185) (xy 39.521766 112.80185) (xy 40.077429 114.146657)
+        (xy 237.0594 116.4094) (xy 38.5306 116.4094) (xy 38.5306 112.80185) (xy 39.521766 112.80185) (xy 40.077429 114.146657)
         (xy 41.105431 115.176455) (xy 42.449266 115.734464) (xy 43.90435 115.735734) (xy 45.249157 115.180071) (xy 46.278955 114.152069)
         (xy 46.836964 112.808234) (xy 46.836969 112.80185) (xy 104.291766 112.80185) (xy 104.847429 114.146657) (xy 105.875431 115.176455)
         (xy 107.219266 115.734464) (xy 108.67435 115.735734) (xy 110.019157 115.180071) (xy 111.048955 114.152069) (xy 111.606964 112.808234)
@@ -1925,7 +1931,7 @@
         (xy 105.880843 77.859929) (xy 104.851045 78.887931) (xy 104.293036 80.231766) (xy 104.291766 81.68685) (xy 46.836969 81.68685)
         (xy 46.838234 80.23815) (xy 46.282571 78.893343) (xy 45.254569 77.863545) (xy 43.910734 77.305536) (xy 42.45565 77.304266)
         (xy 41.110843 77.859929) (xy 40.081045 78.887931) (xy 39.523036 80.231766) (xy 39.521766 81.68685) (xy 38.5306 81.68685)
-        (xy 38.5306 76.6306) (xy 238.3294 76.6306)
+        (xy 38.5306 76.6306) (xy 237.0594 76.6306)
       )
     )
   )
