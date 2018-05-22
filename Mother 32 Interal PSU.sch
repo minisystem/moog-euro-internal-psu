@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:MySynthParts
+LIBS:Mother 32 Interal PSU-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -239,10 +240,6 @@ F 3 "" H 6425 3700 60  0000 C CNN
 	1    6425 3700
 	1    0    0    -1  
 $EndComp
-NoConn ~ 6575 3525
-NoConn ~ 6575 3625
-NoConn ~ 7075 3525
-NoConn ~ 7075 3625
 Wire Wire Line
 	6425 3700 6425 3725
 Wire Wire Line
@@ -397,10 +394,6 @@ F 3 "" H 7975 3700 60  0000 C CNN
 	1    7975 3700
 	1    0    0    -1  
 $EndComp
-NoConn ~ 8125 3525
-NoConn ~ 8125 3625
-NoConn ~ 8625 3525
-NoConn ~ 8625 3625
 Wire Wire Line
 	7975 3700 7975 3725
 Wire Wire Line
@@ -544,10 +537,6 @@ F 3 "" H 6375 2250 60  0000 C CNN
 	1    6375 2250
 	1    0    0    -1  
 $EndComp
-NoConn ~ 6525 2075
-NoConn ~ 6525 2175
-NoConn ~ 7025 2075
-NoConn ~ 7025 2175
 Wire Wire Line
 	6375 2250 6375 2275
 Wire Wire Line
@@ -691,10 +680,6 @@ F 3 "" H 7925 2250 60  0000 C CNN
 	1    7925 2250
 	1    0    0    -1  
 $EndComp
-NoConn ~ 8075 2075
-NoConn ~ 8075 2175
-NoConn ~ 8575 2075
-NoConn ~ 8575 2175
 Wire Wire Line
 	7925 2250 7925 2275
 Wire Wire Line
@@ -838,10 +823,6 @@ F 3 "" H 6475 5050 60  0000 C CNN
 	1    6475 5050
 	1    0    0    -1  
 $EndComp
-NoConn ~ 6625 4875
-NoConn ~ 6625 4975
-NoConn ~ 7125 4875
-NoConn ~ 7125 4975
 Wire Wire Line
 	6475 5050 6475 5075
 Wire Wire Line
@@ -985,10 +966,6 @@ F 3 "" H 8025 5050 60  0000 C CNN
 	1    8025 5050
 	1    0    0    -1  
 $EndComp
-NoConn ~ 8175 4875
-NoConn ~ 8175 4975
-NoConn ~ 8675 4875
-NoConn ~ 8675 4975
 Wire Wire Line
 	8025 5050 8025 5075
 Wire Wire Line
@@ -1132,10 +1109,6 @@ F 3 "" H 6400 975 60  0000 C CNN
 	1    6400 975 
 	1    0    0    -1  
 $EndComp
-NoConn ~ 6550 800 
-NoConn ~ 6550 900 
-NoConn ~ 7050 800 
-NoConn ~ 7050 900 
 Wire Wire Line
 	6400 975  6400 1000
 Wire Wire Line
@@ -1279,10 +1252,6 @@ F 3 "" H 7950 975 60  0000 C CNN
 	1    7950 975 
 	1    0    0    -1  
 $EndComp
-NoConn ~ 8100 800 
-NoConn ~ 8100 900 
-NoConn ~ 8600 800 
-NoConn ~ 8600 900 
 Wire Wire Line
 	7950 975  7950 1000
 Wire Wire Line
@@ -1393,4 +1362,68 @@ Wire Wire Line
 	8750 1600 8750 1500
 Wire Wire Line
 	8750 1500 8600 1500
+Text Label 7050 800  0    40   ~ 0
+GATE
+Text Label 6550 800  2    40   ~ 0
+GATE
+Text Label 8100 800  2    40   ~ 0
+GATE
+Text Label 8600 800  0    40   ~ 0
+GATE
+Text Label 6525 2075 2    40   ~ 0
+GATE
+Text Label 7025 2075 0    40   ~ 0
+GATE
+Text Label 8575 2075 0    40   ~ 0
+GATE
+Text Label 8075 2075 2    40   ~ 0
+GATE
+Text Label 6575 3525 2    40   ~ 0
+GATE
+Text Label 7075 3525 0    40   ~ 0
+GATE
+Text Label 8625 3525 0    40   ~ 0
+GATE
+Text Label 8125 3525 2    40   ~ 0
+GATE
+Text Label 6625 4875 2    40   ~ 0
+GATE
+Text Label 7125 4875 0    40   ~ 0
+GATE
+Text Label 8675 4875 0    40   ~ 0
+GATE
+Text Label 8175 4875 2    40   ~ 0
+GATE
+Text Label 6625 4975 2    40   ~ 0
+CV
+Text Label 7125 4975 0    40   ~ 0
+CV
+Text Label 8675 4975 0    40   ~ 0
+CV
+Text Label 8175 4975 2    40   ~ 0
+CV
+Text Label 6575 3625 2    40   ~ 0
+CV
+Text Label 7075 3625 0    40   ~ 0
+CV
+Text Label 8125 3625 2    40   ~ 0
+CV
+Text Label 8625 3625 0    40   ~ 0
+CV
+Text Label 8575 2175 0    40   ~ 0
+CV
+Text Label 8075 2175 2    40   ~ 0
+CV
+Text Label 7025 2175 0    40   ~ 0
+CV
+Text Label 6525 2175 2    40   ~ 0
+CV
+Text Label 8600 900  0    40   ~ 0
+CV
+Text Label 8100 900  2    40   ~ 0
+CV
+Text Label 7050 900  0    40   ~ 0
+CV
+Text Label 6550 900  2    40   ~ 0
+CV
 $EndSCHEMATC
