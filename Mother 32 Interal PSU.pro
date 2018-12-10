@@ -1,4 +1,4 @@
-update=2017-01-01 3:26:16 PM
+update=2018-12-08 5:05:40 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=E:/Documents/KiCad/MyLibs/MySynthParts
+LibName31=C:/Program Files/KiCad/share/kicad/library/regul
